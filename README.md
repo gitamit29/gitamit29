@@ -17,7 +17,13 @@
 </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.instagram.com/mr_devil_717/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_amit_shinde" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/mr_devil_717/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="30" height="30" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="linkedin" width="30" height="30" />
+  </a>
 </p>
+
 
 
