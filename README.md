@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Amit Shinde</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I’m currently learning **Kafka, React Native**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/amitshinde123)
-- 💬 Ask me about **Go, React, Microservices**
-- 📫 How to reach me: meheratharva49@gmail.com
-- 📄 Know about my experiences [Resume](#)
+- 🌱 I’m currently learning **Python, Power Bi, My SQL**
+- 👨‍💻 All of my projects are available at [GitHub]([https://github.com/amitshinde123](https://github.com/Amit-Devil))
+- 💬 Ask me about **Data Cleaning, Data Analysis, Data Visualization**
+- 📫 How to reach me: amty29@gmail.com@gmail.com
+- 📄 Know about my experiences [Resume]()
 
 ### 🛠️ Languages and Tools:
 <p align="left"> 
@@ -17,13 +17,4 @@
   ...
 </p>
 
----
 
-### 📊 GitHub Stats
-![Amit's GitHub stats](https://github-readme-stats.vercel.app/api?username=amitshinde123&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amitshinde123&layout=compact)
-
----
-
-### 🏆 GitHub Profile Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=amitshinde123)
