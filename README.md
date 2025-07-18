@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-- 🌱 I m currently learning **Python, Power Bi, My SQL**
+- 🌱 I’m currently learning **Python, Power Bi, My SQL**
 - 👨‍💻 All of my projects are available at [GitHub]([https://github.com/amitshinde123](https://github.com/Amit-Devil))
 - 💬 Ask me about **Data Cleaning, Data Analysis, Data Visualization**
 - 🔭 I’m currently working on [Oscar Award Scrapping](https://oscar-award-scrapper-2.onrender.com)
