@@ -8,7 +8,7 @@
 - 💬 Ask me about **Data Cleaning, Data Analysis, Data Visualization**
 - 🔭 I’m currently working on [Oscar Award Scrapping](https://oscar-award-scrapper-2.onrender.com)
 - 📫 How to reach me: amty29@gmail.com
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1-Ks0rZIDGu17VMTRL057TN0crSRETZNp/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1YbqjPXOwNGOAB1b4wq2KllAzTi1if0CI/view?usp=sharing)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.python.org/" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>  </a> <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="power bi" width="40" height="40"/></a><a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/valohai/ml-logos/master/pandas.svg" alt="pandas" width="40" height="40"/>
